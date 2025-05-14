@@ -1,6 +1,5 @@
 {
   "buildCommand": "pnpm install --no-frozen-lockfile && pnpm run build",
   "outputDirectory": ".next",
-  "ignoreCommand": "echo 'Ignoring'",
   "installCommand": "pnpm install --no-frozen-lockfile"
 }
